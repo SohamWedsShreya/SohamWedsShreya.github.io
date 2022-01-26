@@ -28,5 +28,6 @@ html {
 }
 
 img {
-  height: 90vh;
+  max-width: 90vw;
+  max-height: 90vh;
 }
